@@ -1,0 +1,24 @@
+#top {
+  clear: both;
+  margin: 4em 3em 0;
+  font-size: 1.25em;
+  padding-bottom: 0;
+}
+
+#game {
+  width: 90vw;
+  height: 65vh;
+  font-size: 1.5em;
+  padding: 2.5em 3em 1em;
+  background: white;
+  border: 2px solid transparent;
+  border-radius: 0.5em;
+  margin: 1em auto;
+  -webkit-box-shadow: 0px 3px 14px 0px rgba(153, 153, 153, 0.63);
+  -moz-box-shadow: 0px 3px 14px 0px rgba(153, 153, 153, 0.63);
+  box-shadow: 0px 3px 14px 0px rgba(153, 153, 153, 0.63);
+}
+
+.prompt.card {
+  font-size: 1.5em;
+}
